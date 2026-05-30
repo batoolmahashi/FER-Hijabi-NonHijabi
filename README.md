@@ -6,7 +6,7 @@ This repository contains the code for our paper presented at the **3rd Internati
 
 **Title:** Deep Learning-Based Facial Expression Recognition for Hijabi and Non-Hijabi Faces
 
-**Authors:** [Batool Mahashi] (https://github.com/batoolmahashi), [Samira Aldamen] (https://github.com/samira-aldamen), [Wajd Almadi] (https://github.com/wajdalmadi), [Shatha Arar] (https://github.com/shathaarar), Rasha Obeidat, Farah AlShanik
+**Authors:** [Batool Mahashi](https://github.com/batoolmahashi), [Samira Aldamen](https://github.com/samira-aldamen), [Wajd Almadi](https://github.com/wajdalmadi), [Shatha Arar](https://github.com/shathaarar), Rasha Obeidat, Farah AlShanik
 
 **Institution:** Jordan University of Science and Technology, Irbid, Jordan
 
